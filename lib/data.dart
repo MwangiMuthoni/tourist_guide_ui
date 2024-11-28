@@ -14,7 +14,7 @@ class Article {
 
 List<Article> articles = [
   Article(
-      'Japan\'s second largest metropolitan area',
+      'Japan\'s second largest\nmetropolitan area',
       'https://media.istockphoto.com/id/625660018/photo/mt-fuji-and-lake-kawaguchiko-at-dawn.jpg?s=1024x1024&w=is&k=20&c=l_eFouAYXNwcRV1iuvbji6Ms20XjwRMBdF8lI4z_J6Q=',
       100,
       32000,
@@ -23,7 +23,7 @@ List<Article> articles = [
       50,
       'Hussain Mustafa'),
   Article(
-      'Known as the sleepless town for obvious reasons',
+      'Known as the sleepless town\nfor obvious reasons',
       'https://media.istockphoto.com/id/688114088/photo/mountain-fuji-and-milkyway-at-lake-motosu.jpg?s=1024x1024&w=is&k=20&c=SOwgc0chnwVNUufWiPO0lfpukNVYpI4e4yoFICol_sg=',
       300,
       50000,
@@ -32,7 +32,7 @@ List<Article> articles = [
       1250,
       'Tim Salvatore'),
   Article(
-      'Japan\'s second largest metropolitan area',
+      'Japan\'s second largest\n metropolitan area',
       'https://media.istockphoto.com/id/1771970810/photo/lake-motosu-and-mt-fuji-sunrise-glow.jpg?s=1024x1024&w=is&k=20&c=CgzrWyIMWZMNurje16YIg-0ZnozhNc9dQwQ_FRhC8M4=',
       200,
       10000,
